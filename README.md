@@ -54,4 +54,4 @@ sudo python3 Topo.py
 # Остановка окружения
 1. В CLI Mininet: exit
 2. Остановить sFlow-RT (если запущен): ./stop.sh
-3.Остановить Suricata: sudo systemctl stop suricata
+3. Остановить Suricata: sudo systemctl stop suricata
